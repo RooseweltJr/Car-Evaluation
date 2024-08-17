@@ -8,7 +8,8 @@ interface gráfica para treinamento, avaliação e análise de redes neurais em 
 
 ## Sobre o projeto:
 Este grupo ficou responsável para implementação da base de dados o `Car
-Evaluation Dataset` do do UCI Machine Learning Repository. A intenção original do projeto era utilizar para interface visuala biblioteca `PySimpleGUI` para a interface, contudo foi decidido utilizar a biblioteca `Streamlit` devido a sua maior versatilidade e possibilidade de *deploy* na internet .
+Evaluation Dataset` do do UCI Machine Learning Repository. A intenção original do projeto era utilizar para interface visuala biblioteca `PySimpleGUI` para a interface, contudo foi decidido utilizar a biblioteca `Streamlit` devido a sua maior versatilidade e possibilidade de *deploy* na internet:
+[Streamlit](https://rnacarevaluationdataset.streamlit.app/)
 
 Além disso, foram utilizadas as seguintes bibliotecas para importar, tratar, criar e treinar o modelo:
 - streamlit;

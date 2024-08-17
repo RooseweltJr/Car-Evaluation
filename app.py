@@ -12,7 +12,7 @@ def main():
 
 
     #Menu
-    menu = ["Análise do Dataset","Modelo","Memorial"]
+    menu = ["Análise do Dataset","Modelo"]
     opcoes  = st.sidebar.selectbox("Selecione uma das opções",menu)
 
     #importar dataframe:
