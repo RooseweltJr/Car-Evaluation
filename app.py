@@ -30,10 +30,7 @@ def main():
             st.header("Modelo")
             st.write("Nessa aba vamos construir nosso modelo, treina-lo e, por fim, utiliza-lo para fazer predições com ele")
             modelo.modelo(data)
-        
-        case "Modelo":
-           st.subheader("Modelo")
-       
+   
 
     
 if __name__=='__main__':
